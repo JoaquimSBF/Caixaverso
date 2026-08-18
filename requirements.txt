@@ -1,0 +1,8 @@
+pydantic-ai-slim[google]>=2.31.1
+google-genai>=1.0.0
+duckdb>=1.0.0
+pandas>=2.0.0
+plotly>=5.18.0
+scikit-learn>=1.4.0
+streamlit>=1.30.0
+python-dotenv>=1.0.0

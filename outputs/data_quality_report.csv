@@ -1,0 +1,22 @@
+tabela,regra,observado,limite,severidade,resultado
+movimentacoes,id_mov único,0,0,error,OK
+movimentacoes,id_mov sem nulos,0,0,error,OK
+movimentacoes,data_mov sem nulos,0,0,error,OK
+movimentacoes,tipo_padrao sem nulos,0,0,error,OK
+movimentacoes,valor sem nulos,0,0,error,OK
+movimentacoes,produto_padrao sem nulos,0,0,error,OK
+movimentacoes,canal_padrao sem nulos,0,0,error,OK
+movimentacoes,cliente_id sem nulos,0,0,error,OK
+movimentacoes,tipo permitido,0,0,error,OK
+movimentacoes,valor positivo,0,0,error,OK
+clientes,cliente_id único,0,0,error,OK
+clientes,status permitido,0,0,error,OK
+clientes,sem PII em claro,[],[],error,OK
+relacionamentos,clientes existentes,0,0,error,OK
+relacionamentos,produtos existentes,0,0,error,OK
+relacionamentos,canais permitidos,0,0,error,OK
+receita,ano_mes sem nulos,0,0,error,OK
+receita,produto_padrao sem nulos,0,0,error,OK
+receita,canal_padrao sem nulos,0,0,error,OK
+receita,valor_receita sem nulos,1,0,warning,NOK
+metas,meta numérica não negativa,0,0,error,OK

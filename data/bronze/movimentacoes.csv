@@ -1,0 +1,184 @@
+id_mov,data,tipo,valor,produto,canal,cliente_id
+M0001,2025-02-16,resgate,"21552,35",Multimercado,app,C021
+M0002,13-03-2025,CAPTAÇÃO,20929.45,Tesouro Selic ,App,C035
+M0003,2025-02-27,captacao,62717.41,FUNDO DI,Assessor,C013
+M0004,03/03/2025,Resgate,38411.32,fundo di,Assessor,C030
+M0005,2025-02-12,Captacao,"R$ 62.445,56",Tesouro Selic ,App,C038
+M0006,28-05-2025,captacao,"R$ 32.335,70",FUNDO DI,ASSESSOR,C016
+M0007,2025-06-25,captacao,63901.95,FUNDO DI,Parceiro,C035
+M0008,2025-04-05,captacao,"40970,90",AcoesBrasil,app,C032
+M0009,03-04-2025,resgate,56877,Fundo_DI,ASSESSOR,C018
+M0010,18-07-2025,Captacao,37725.03,Renda Fixa Crédito,Parceiro,C016
+M0011,26/04/2025,Resgate,60287.63,FUNDO DI,app,C022
+M0012,25/03/2025,Captacao,"39516,44",Fundo_DI,Parceiro,C018
+M0013,2025-03-12,captacao,"R$ 41.813,55",Renda Fixa Crédito,Assessor,C027
+M0014,14/07/2025,CAPTAÇÃO,55558,AcoesBrasil,App,C006
+M0015,14/04/2025,Captacao,25190.28,Tesouro Selic,app,C036
+M0016,2025/04/19,Captacao,28793,RF Credito,Parceiro,C017
+M0017,04/07/2025,resg,25928.29,Fundo Multimercado,Assessor,C013
+M0018,2025/05/04,Resgate,58242.22,Fundo Multi,Parceiro,C007
+M0019,2025/02/28,resg,15175.88,Multimercado,ASSESSOR,C009
+M0020,2025/01/14,resg,"R$ 56.095,97",Tesouro Selic,app,C007
+M0021,01-05-2025,captacao,"R$ 35.797,04",FUNDO DI,Parceiro,C031
+M0022,13-04-2025,resgate,6852.49,Fundo DI,Assessor,C037
+M0023,2025-03-05,Resgate,45087,Tesouro Selic,ASSESSOR,C040
+M0024,08-04-2025,Resgate,"72771,85",Fundo Multi,app,C020
+M0025,2025-01-16,resg,"R$ 75.859,63",Renda Fixa Crédito,Assessor,C017
+M0026,03/03/2025,captacao,"R$ 44.607,39",fundo di,app,C029
+M0027,2025-03-16,resg,"19286,62",RF Credito,app,C005
+M0028,10/06/2025,resgate,34585.98,Multimercado,Assessor,C018
+M0029,16/01/2025,resg,63617.66,Fundo Multimercado,ASSESSOR,C019
+M0030,2025/04/30,Resgate,"56278,96",Acoes Brasil,ASSESSOR,C032
+M0031,2025-06-03,Resgate,"71264,41",Acoes Brasil,Parceiro,C002
+M0032,2025-06-22,Resgate,"79966,22",fundo di,App,C012
+M0033,16-06-2025,Resgate,"R$ 73.369,75",AcoesBrasil,app,C032
+M0034,31-03-2025,resgate,27331.36,Fundo_DI,Parceiro,C027
+M0035,19-06-2025,captacao,65271.72,Ações Brasil,app,C006
+M0036,2025-03-24,Resgate,77644,Tesouro Selic ,App,C035
+M0037,14/01/2025,CAPTAÇÃO,41956.71,Ações Brasil,app,C004
+M0038,21/05/2025,resg,74286,Multimercado,app,C008
+M0039,01/07/2025,Resgate,25549.26,fundo di,app,C006
+M0040,2025-04-29,CAPTAÇÃO,"R$ 52.169,07",Fundo Multimercado,Parceiro,C033
+M0041,04-05-2025,resgate,20254.74,Tesouro Selic ,app,C013
+M0042,11/07/2025,CAPTAÇÃO,"69258,13",Renda Fixa Crédito,Parceiro,C033
+M0043,2025/03/14,resg,67160.6,Tesouro Selic,app,C010
+M0044,2025/05/04,CAPTAÇÃO,27262.76,AcoesBrasil,app,C021
+M0045,03-03-2025,captacao,19451,Fundo Multi,Parceiro,C031
+M0046,19/06/2025,resgate,40130.96,Ações Brasil,ASSESSOR,C038
+M0047,2025-04-23,captacao,42550,Tesouro Selic,Assessor,C027
+M0048,2025/05/01,resg,27746,Fundo Multimercado,App,C022
+M0049,23-03-2025,Resgate,69918.26,RF Credito,App,C016
+M0050,2025-07-11,resg,35283.75,Tesouro Selic,App,C029
+M0051,2025-03-18,Captacao,4633.29,Fundo Multi,Parceiro,C024
+M0052,04-03-2025,resgate,"R$ 45.708,32",Acoes Brasil,Assessor,C006
+M0053,08/06/2025,resgate,40315.71,RF Credito,Assessor,C030
+M0054,2025-03-07,Captacao,72013,Tesouro Selic ,ASSESSOR,C011
+M0055,2025/03/30,resg,51476,Fundo_DI,Parceiro,C030
+M0056,09-04-2025,Resgate,9425,Tesouro Selic,Parceiro,C037
+M0057,2025-03-17,Captacao,78257,TESOURO SELIC,App,C037
+M0058,15/03/2025,resgate,"48958,13",Fundo_DI,Assessor,C040
+M0059,13/07/2025,Captacao,50631.6,TESOURO SELIC,app,C003
+M0060,07/07/2025,Captacao,"8120,54",RF Credito,app,C012
+M0061,2025/05/19,resgate,"42937,34",Fundo Multimercado,Parceiro,C031
+M0062,2025-03-28,resgate,37998.18,TESOURO SELIC,Assessor,C026
+M0063,24-01-2025,captacao,2099.57,RF Credito,app,C024
+M0064,2025/04/08,CAPTAÇÃO,"R$ 9.559,34",TESOURO SELIC,App,C040
+M0065,06/06/2025,resg,52164,RF Credito,Parceiro,C027
+M0066,2025-01-12,captacao,25044,fundo di,App,C016
+M0067,10-04-2025,CAPTAÇÃO,30309.91,Renda Fixa Credito,ASSESSOR,C010
+M0068,26-01-2025,captacao,"49636,52",AcoesBrasil,Parceiro,C014
+M0069,2025/03/02,Resgate,"8849,02",Ações Brasil,Parceiro,C004
+M0070,2025-02-18,captacao,75971,Ações Brasil,Assessor,C039
+M0071,27/03/2025,resgate,79116.85,Fundo DI,App,C036
+M0072,25/02/2025,Resgate,"R$ 26.956,20",Fundo Multi,App,C018
+M0073,2025/05/19,resg,64082.59,Fundo Multimercado,App,C009
+M0074,2025/03/02,captacao,"2246,71",FUNDO DI,Assessor,C027
+M0075,2025-07-10,Resgate,"38623,43",Renda Fixa Credito,ASSESSOR,C007
+M0076,2025-02-26,Captacao,58452.2,AcoesBrasil,app,C002
+M0077,13-04-2025,resg,55201,Fundo_DI,app,C005
+M0078,05/06/2025,Resgate,"6188,90",FUNDO DI,ASSESSOR,C036
+M0079,2025/06/02,CAPTAÇÃO,36843.52,Tesouro Selic ,App,C008
+M0080,25-02-2025,CAPTAÇÃO,"R$ 36.672,84",Renda Fixa Crédito,Parceiro,C030
+M0081,2025-07-06,resg,"25691,32",Ações Brasil,Parceiro,C024
+M0082,2025-05-02,captacao,8206.76,Fundo Multi,app,C007
+M0083,2025-05-23,Resgate,47330.74,Tesouro Selic,Parceiro,C008
+M0084,20-06-2025,Captacao,69579.28,Ações Brasil,ASSESSOR,C020
+M0085,28/05/2025,resgate,13223,Tesouro Selic,App,C023
+M0086,2025/01/30,Resgate,46353,RF Credito,ASSESSOR,C040
+M0087,2025/06/05,resg,"3287,30",Renda Fixa Credito,Parceiro,C022
+M0088,16/02/2025,captacao,45739,Tesouro Selic,Assessor,C002
+M0089,07-04-2025,Captacao,"R$ 36.838,02",fundo di,Parceiro,C021
+M0090,2025-01-22,captacao,13290.81,Renda Fixa Crédito,App,C018
+M0091,19-04-2025,Captacao,48959,AcoesBrasil,Assessor,C033
+M0092,2025-04-21,CAPTAÇÃO,23376.47,FUNDO DI,ASSESSOR,C020
+M0093,2025-04-12,resgate,"1607,28",fundo di,Assessor,C017
+M0094,2025-01-31,resgate,40293,Tesouro Selic ,Assessor,C025
+M0095,2025/02/28,CAPTAÇÃO,6693.96,Renda Fixa Crédito,App,C030
+M0096,28-05-2025,Captacao,46298,FUNDO DI,App,C026
+M0097,13-02-2025,captacao,"66730,05",FUNDO DI,app,C007
+M0098,31-05-2025,Captacao,42393,Multimercado,Parceiro,C015
+M0099,2025-01-20,Captacao,"R$ 42.917,78",Tesouro Selic,Parceiro,C010
+M0100,2025/02/07,resgate,16584.47,Fundo Multimercado,App,C012
+M0101,13-07-2025,resg,54809.54,Ações Brasil,ASSESSOR,C021
+M0102,2025-04-23,Captacao,"38044,77",Tesouro Selic,ASSESSOR,C004
+M0103,2025/01/19,captacao,37477.66,TESOURO SELIC,Parceiro,C019
+M0104,07-06-2025,resg,37554.22,Fundo DI,App,C029
+M0105,2025/02/18,resgate,48795.46,Renda Fixa Crédito,App,C029
+M0106,2025-07-02,captacao,"R$ 40.859,37",FUNDO DI,Assessor,C029
+M0107,14/05/2025,CAPTAÇÃO,"29747,94",AcoesBrasil,app,C022
+M0108,2025/06/11,Resgate,6207.04,Renda Fixa Credito,app,C019
+M0109,18/06/2025,resg,27335.6,TESOURO SELIC,Assessor,C023
+M0110,28-06-2025,Captacao,11187.18,TESOURO SELIC,ASSESSOR,C025
+M0111,2025-06-21,Resgate,52035,Tesouro Selic,Parceiro,C002
+M0112,16/02/2025,resgate,27996,Tesouro Selic ,Assessor,C009
+M0113,2025-03-17,resg,41107.49,Fundo Multimercado,ASSESSOR,C003
+M0114,03-02-2025,resg,"R$ 13.185,97",TESOURO SELIC,ASSESSOR,C011
+M0115,2025/04/16,CAPTAÇÃO,"R$ 54.432,67",Acoes Brasil,ASSESSOR,C019
+M0116,17/05/2025,resgate,25447,Acoes Brasil,Parceiro,C037
+M0117,2025/07/16,Resgate,62471.8,Ações Brasil,app,C011
+M0118,2025/02/05,Captacao,5122,Fundo Multi,ASSESSOR,C007
+M0119,2025-03-14,CAPTAÇÃO,"61286,23",Renda Fixa Credito,ASSESSOR,C010
+M0120,26-02-2025,CAPTAÇÃO,70885.75,Acoes Brasil,App,C026
+M0121,02-03-2025,resgate,"79567,50",RF Credito,App,C021
+M0122,07/02/2025,resg,4025,FUNDO DI,Assessor,C031
+M0123,2025-01-02,resgate,"R$ 2.501,31",AcoesBrasil,ASSESSOR,C039
+M0124,2025/01/29,captacao,19773.58,RF Credito,Assessor,C027
+M0125,2025-01-17,Resgate,67098,RF Credito,ASSESSOR,C002
+M0126,03/03/2025,Resgate,24010.49,Renda Fixa Crédito,Parceiro,C016
+M0127,2025-02-17,captacao,"42355,28",RF Credito,ASSESSOR,C035
+M0128,2025-05-22,captacao,31845,Renda Fixa Crédito,app,C024
+M0129,2025/01/05,resgate,"63293,08",TESOURO SELIC,App,C038
+M0130,2025/01/12,resg,"R$ 44.135,09",Tesouro Selic,app,C031
+M0131,17-01-2025,captacao,"R$ 3.921,72",Fundo Multimercado,Assessor,C003
+M0132,12-05-2025,CAPTAÇÃO,79140.69,Tesouro Selic ,Parceiro,C003
+M0133,2025-04-02,Captacao,"69398,06",Multimercado,App,C024
+M0134,10-07-2025,Captacao,71676,Ações Brasil,Assessor,C032
+M0135,2025/05/13,captacao,64290,Ações Brasil,app,C039
+M0136,2025/03/17,resg,"9105,23",Fundo Multi,Parceiro,C020
+M0137,03-07-2025,Captacao,14164,AcoesBrasil,app,C003
+M0138,2025/04/22,captacao,51518.08,TESOURO SELIC,app,C024
+M0139,23/06/2025,Resgate,"R$ 76.270,36",Renda Fixa Crédito,app,C003
+M0140,2025/03/02,captacao,29609.9,Fundo Multimercado,ASSESSOR,C010
+M0141,06-04-2025,resgate,61283.67,Ações Brasil,ASSESSOR,C024
+M0142,2025/06/16,captacao,20719.32,Ações Brasil,Assessor,C032
+M0143,2025-05-24,resg,"21680,36",RF Credito,app,C014
+M0144,27-06-2025,captacao,"R$ 16.814,09",RF Credito,app,C012
+M0145,2025/06/24,Resgate,53759.34,Acoes Brasil,ASSESSOR,C019
+M0146,02/07/2025,resgate,63702.01,Tesouro Selic,App,C013
+M0147,2025-05-07,Captacao,29510.83,Fundo Multimercado,app,C036
+M0148,2025-01-23,Resgate,25433,Fundo Multi,app,C027
+M0149,2025/02/02,CAPTAÇÃO,51744,Renda Fixa Credito,ASSESSOR,C023
+M0150,13/06/2025,CAPTAÇÃO,"R$ 61.654,75",Fundo Multi,ASSESSOR,C004
+M0151,19/03/2025,Captacao,"R$ 13.795,39",fundo di,ASSESSOR,C019
+M0152,2025/02/20,Resgate,"10888,45",FUNDO DI,ASSESSOR,C006
+M0153,13/02/2025,resg,14524.85,Renda Fixa Crédito,ASSESSOR,C022
+M0154,2025-01-08,Captacao,4591.48,Renda Fixa Credito,Assessor,C037
+M0155,2025-06-13,Captacao,40345.01,AcoesBrasil,Parceiro,C031
+M0156,2025/04/14,resgate,36829.99,Fundo Multi,app,C027
+M0157,2025/02/22,resg,"48926,16",Ações Brasil,Parceiro,C023
+M0158,2025/07/14,Captacao,41683.43,Acoes Brasil,Assessor,C030
+M0159,26/04/2025,Captacao,12129.33,FUNDO DI,app,C040
+M0160,2025/02/10,resgate,"74766,37",Acoes Brasil,Assessor,C032
+M0161,2025/05/08,CAPTAÇÃO,40292.25,RF Credito,ASSESSOR,C030
+M0162,2025/05/30,CAPTAÇÃO,"4843,99",Fundo Multimercado,ASSESSOR,C031
+M0163,2025-01-03,resg,"35043,29",TESOURO SELIC,Parceiro,C026
+M0164,2025-04-13,Captacao,"R$ 46.052,25",Tesouro Selic,ASSESSOR,C019
+M0165,10-05-2025,Resgate,"61387,93",Fundo_DI,ASSESSOR,C008
+M0166,2025/04/11,Resgate,"63796,88",Fundo Multimercado,Parceiro,C010
+M0167,11-05-2025,captacao,40506.15,Fundo Multi,Assessor,C022
+M0168,27/04/2025,resgate,48894.58,AcoesBrasil,Parceiro,C040
+M0169,2025/04/11,Resgate,47904.25,Tesouro Selic,ASSESSOR,C032
+M0170,2025-05-02,CAPTAÇÃO,30100.27,RF Credito,ASSESSOR,C020
+M0171,09/03/2025,CAPTAÇÃO,57990.61,Fundo_DI,Assessor,C034
+M0172,07/02/2025,resgate,3494.07,RF Credito,App,C029
+M0173,08-02-2025,Resgate,55549,Tesouro Selic ,ASSESSOR,C031
+M0174,13/05/2025,Resgate,45310,fundo di,app,C021
+M0175,2025/05/17,Resgate,"44155,58",Multimercado,app,C013
+M0176,2025/05/23,Captacao,"18764,50",Multimercado,Assessor,C032
+M0177,2025/03/31,resg,23735.36,Tesouro Selic ,ASSESSOR,C025
+M0178,17/07/2025,resg,"23945,76",Ações Brasil,App,C023
+M0179,07-03-2025,Captacao,17904.96,AcoesBrasil,ASSESSOR,C018
+M0180,07/06/2025,resgate,20154.19,Fundo Multimercado,Assessor,C004
+M0011,26/04/2025,Resgate,60287.63,FUNDO DI,app,C022
+M0011,26/04/2025,Resgate,60287.63,FUNDO DI,app,C022
+M0026,03/03/2025,captacao,"R$ 44.607,39",fundo di,app,C029

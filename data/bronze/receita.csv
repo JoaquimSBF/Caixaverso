@@ -1,0 +1,51 @@
+periodo,produto,canal,fee,valor_receita
+2025/01,Fundo DI,app,admin,"16216,23"
+2025-01,Fundo Multimercado,Assessor,,63857.74
+01/2025,Tesouro Selic,Assessor,Admin,"61537,21"
+2025-01,Acoes Brasil,App,corretagem,34335.75
+2025-01,Renda Fixa Credito,Assessor,,51882.49
+2025-01,Fundo Multi,app,,80344.09
+01/2025,Ações Brasil,App,admin,23277.55
+2025-02,Fundo DI,Parceiro,Admin,32468.16
+2025/02,Fundo Multimercado,app,corretagem,45256.62
+02/2025,Tesouro Selic,Assessor,admin,"77786,90"
+02/2025,Acoes Brasil,Parceiro,corretagem,35116.1
+02/2025,Renda Fixa Credito,Assessor,corretagem,"9154,90"
+02/2025,Fundo Multi,app,Admin,58098.27
+2025-02,Ações Brasil,Assessor,corretagem,15112.5
+2025-03,Fundo DI,Parceiro,,47151.24
+03/2025,Fundo Multimercado,Parceiro,admin,"27312,74"
+2025/03,Tesouro Selic,Assessor,admin,"29447,36"
+03/2025,Acoes Brasil,Assessor,,"62758,46"
+03/2025,Renda Fixa Credito,App,Admin,64258.04
+2025-03,Fundo Multi,Assessor,,38138.6
+2025/03,Ações Brasil,Parceiro,,20561.22
+2025/03,Produto Inexistente,Assessor,corretagem,"65559,14"
+2025-04,Fundo DI,app,Admin,63788.04
+2025-04,Fundo Multimercado,App,corretagem,14404.42
+2025-04,Tesouro Selic,Parceiro,,54961.54
+2025/04,Acoes Brasil,app,admin,17531.68
+2025-04,Renda Fixa Credito,app,corretagem,"81708,93"
+2025/04,Fundo Multi,App,,"50086,32"
+2025/04,Ações Brasil,App,,"63166,95"
+2025-05,Fundo DI,Assessor,admin,
+2025/05,Fundo Multimercado,App,admin,"11713,76"
+05/2025,Tesouro Selic,App,Admin,84635.79
+2025/05,Acoes Brasil,app,Admin,41527.09
+05/2025,Renda Fixa Credito,app,,"89414,24"
+2025/05,Fundo Multi,Assessor,Admin,14580.5
+05/2025,Ações Brasil,Assessor,corretagem,17727.92
+06/2025,Fundo DI,app,,76455.37
+2025-06,Fundo Multimercado,app,Admin,51618.56
+2025/06,Tesouro Selic,App,admin,20719.95
+2025/06,Acoes Brasil,App,corretagem,"74377,21"
+2025/06,Renda Fixa Credito,App,,24898.69
+2025-06,Fundo Multi,Assessor,admin,57018.36
+2025/06,Ações Brasil,Assessor,admin,40985.76
+2025-07,Fundo DI,Parceiro,Admin,"19491,12"
+2025/07,Fundo Multimercado,Assessor,,27426.13
+2025/07,Tesouro Selic,Assessor,,32641.08
+07/2025,Acoes Brasil,app,Admin,53579.75
+2025-07,Renda Fixa Credito,Parceiro,,"65097,29"
+07/2025,Fundo Multi,Assessor,corretagem,23078.08
+2025-07,Ações Brasil,app,admin,32660.39

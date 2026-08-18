@@ -1,0 +1,42 @@
+cliente_id,nome,cpf,email,telefone,segmento,status,data_entrada
+C001,Karen Santos,412.460.130-15,karen.santos1@email.com,11918728463,Private,ativo,2023-08-12
+C002,Iris Rodrigues,831.284.151-55,iris.rodrigues2@email.com,+55 11 94611-8359,Private,Ativo,08/03/2024
+C003,Elena Oliveira,56228855278,elena.oliveira3@email.com,+55 11 96881-6635,Private,I,2024/04/15
+C004,Bruno Costa,83352888296,bruno.costa4@email.com,(11) 96925-4150,Alta Renda,ativo,2023-08-27
+C005,Gabriela Lima,97846728339,ana.silva.dup@email.com,11921831063,VAREJO,I,2023/06/25
+C006,Lucas Souza,70831350511,ana.silva.dup@email.com,11936231783,Alta Renda,inativo,2023-10-02
+C007,Diego Rodrigues,37121334999,DIEGO.RODRIGUES7@EMAIL.COM,(11) 98517-3340,VAREJO,Inativo,2023/09/27
+C008,Joao Costa,91165531253,joao.costa8@email.com,11948586340,Private,ativo,2023/06/06
+C009,Carla Costa,21151491892,carla.costa9@email.com,11951220073,VAREJO,A,2023-12-15
+C010,Elena Costa,70808824522,elena.costa10@email.com,11996917555,Alta Renda,I,2024/06/03
+C011,Diego Oliveira,83708291861,diego.oliveira11@email.com,+55 11 91319-2832,Alta Renda,Ativo,2023-03-01
+C012,Olivia Rodrigues,22657051510,olivia.rodrigues12@email.com,(11) 98962-2133,private,Inativo,19/06/2023
+C013,Iris Rodrigues,62878418842,iris.rodrigues13@email.com,(11) 99479-8397,Private,A,2023/01/22
+C014,Iris Souza,42592102130,IRIS.SOUZA14@EMAIL.COM,+55 11 92104-1514,Private,Inativo,01/09/2023
+C015,Karen Almeida,839.345.841-22,karen.almeida15@email.com,(11) 98744-4981,Private,ativo,17/03/2024
+C016,Gabriela Costa,17426324250,gabriela.costa16@email.com,(11) 97596-6559,Varejo,Inativo,2024-04-04
+C017,Gabriela Oliveira,713.258.844-41,gabriela.oliveira17@email.com,11910117988,Private,Ativo,20/06/2023
+C018,Hugo Almeida,31726673616,hugo.almeida18@email.com,,VAREJO,I,2024-05-13
+C019,Diego Lima,87560595158,diego.lima19@email.com,(11) 91936-1821,Private,Inativo,2023-03-24
+C020,Bruno Rodrigues,43766256364,bruno.rodrigues20@email.com,+55 11 92343-7868,Alta Renda,Ativo,2023-11-18
+C021,Elena Costa,51427110440,ELENA.COSTA21@EMAIL.COM,11942436584,VAREJO,Ativo,02/06/2024
+C022,Carla Pereira,223.732.174-09,carla.pereira22@email.com,+55 11 98179-9900,VAREJO,I,2024-06-25
+C023,Karen Nascimento,257.341.347-27,karen.nascimento23@email.com,+55 11 93546-5462,VAREJO,Ativo,2023-12-18
+C024,Karen Lima,76595224817,karen.lima24@email.com,11906818112,Alta Renda,Ativo,2023-09-26
+C025,Lucas Almeida,84851345353,lucas.almeida25@email.com,+55 11 99938-1590,VAREJO,Inativo,01/06/2023
+C026,Carla Silva,58568599783,carla.silva26@email.com,,VAREJO,I,2023-06-08
+C027,Nicolas Oliveira,34957074522,nicolas.oliveira27@email.com,+55 11 97745-5065,Varejo,I,21/04/2023
+C028,Nicolas Silva,781.121.393-83,NICOLAS.SILVA28@EMAIL.COM,(11) 98541-6728,Private,I,17/07/2023
+C029,Felipe Lima,22302302217,felipe.lima29@email.com,11947130035,Private,A,2023/07/02
+C030,Elena Silva,92069964028,elena.silva30@email.com,,VAREJO,Ativo,2023-09-18
+C031,Lucas Costa,787.267.407-07,lucas.costa31@email.com,11948884978,Alta Renda,Inativo,2023/11/13
+C032,Gabriela Pereira,842.842.734-40,gabriela.pereira32@email.com,,VAREJO,ativo,08/11/2023
+C033,Diego Costa,90684219803,diego.costa33@email.com,,Varejo,I,28/03/2023
+C034,Iris Rodrigues,200.295.572-11,iris.rodrigues34@email.com,11990301106,Private,Ativo,2024/05/01
+C035,Nicolas Santos,677.905.723-88,NICOLAS.SANTOS35@EMAIL.COM,(11) 97291-9099,Private,ativo,2024-03-11
+C036,Carla Nascimento,162.901.938-78,carla.nascimento36@email.com,+55 11 98612-9702,private,Inativo,31/05/2024
+C037,Nicolas Nascimento,78124601904,nicolas.nascimento37@email.com,(11) 95050-5543,Alta Renda,inativo,2023/03/21
+C038,Elena Souza,54116680473,elena.souza38@email.com,,Varejo,I,2023-08-08
+C039,Gabriela Costa,84435568770,gabriela.costa39@email.com,11955804273,VAREJO,inativo,2024-05-03
+C040,Felipe Lima,64775758589,felipe.lima40@email.com,+55 11 98999-4595,private,inativo,30/01/2023
+C003,Elena Oliveira,56228855278,elena.oliveira3@email.com,+55 11 96881-6635,Private,I,2024/04/15

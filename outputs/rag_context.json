@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "regra": "responder somente com evidência recuperada",
+    "chunk_size_chars": 1000,
+    "chunk_overlap_chars": 120
+  },
+  "docs": [
+    {
+      "id": "analise_final.md#0",
+      "source": "analise_final.md",
+      "kind": "narrativa",
+      "chunk_index": 0,
+      "text": "# CAIXA Verso, Análise Final — Caso Sintético\n\n> Material didático: não representa dados ou indicadores reais da CAIXA.\n\n## Resumo executivo\nNo mês 2025-07, captação R$ 389,676.10, resgate R$ 356,005.16, líquida R$ 33,670.94.\nReceita recente R$ 253,973.84. Proxy de inatividade 55.0%.\n\n## KPIs vs meta\n- Captacao: 389,676.10 | meta 2500000.0\n- Resgate: 356,005.16 | meta 1200000.0\n- Liquida: 33,670.94 | meta 1300000.0\n\n## Destaques\n- Produto: Acoes Brasil\n- Canal: Assessor\n\n## Recomendacoes\n1. Priorizar melhor liquida.\n2. Investigar resgates.\n3. Reativar inativos.\n- Gerado em: 2026-08-18T13:34:43"
+    },
+    {
+      "id": "gold.kpis_mensais#0",
+      "source": "gold.kpis_mensais",
+      "kind": "tabela",
+      "chunk_index": 0,
+      "text": "KPIs mensais:\nano_mes  captacao   resgate  captacao_liquida  clientes_movimentados  qtd_movimentos\n2025-01 240709.83 519723.03        -279013.20                     19              21\n2025-02 585529.05 382420.23         203108.82                     19              26\n2025-03 504054.92 794471.73        -290416.81                     23              32\n2025-04 610291.15 578010.58          32280.57                     16              29\n2025-05 561334.88 546083.50          15251.38                     20              29\n2025-06 386316.82 674588.98        -288272.16                     20              25\n2025-07 389676.10 356005.16          33670.94                     14              18"
+    },
+    {
+      "id": "gold.mix_produto#0",
+      "source": "gold.mix_produto",
+      "kind": "tabela",
+      "chunk_index": 0,
+      "text": "Captação por produto:\n           produto  valor_captacao\n      Acoes Brasil       959467.17\n     Tesouro Selic       750497.16\n          Fundo DI       604183.88\nRenda Fixa Credito       573579.52\nFundo Multimercado       390185.02"
+    },
+    {
+      "id": "gold.mix_canal#0",
+      "source": "gold.mix_canal",
+      "kind": "tabela",
+      "chunk_index": 0,
+      "text": "Captação por canal:\n   canal  valor_captacao\nAssessor      1376523.08\n     App      1184723.20\nParceiro       716666.47"
+    },
+    {
+      "id": "metas.csv#0",
+      "source": "metas.csv",
+      "kind": "regra_negocio",
+      "chunk_index": 0,
+      "text": "Metas mensais:\n               kpi  meta_mes unidade\n          captacao 2500000.0     BRL\n           resgate 1200000.0     BRL\n  captacao_liquida 1300000.0     BRL\n           receita  180000.0     BRL\nchurn_clientes_pct       3.0     pct"
+    },
+    {
+      "id": "gold.churn_snapshot#0",
+      "source": "gold.churn_snapshot",
+      "kind": "tabela",
+      "chunk_index": 0,
+      "text": "Snapshot de clientes ativos/inativos (proxy, não churn real):\n status  qtd_clientes\n  ativo            18\ninativo            22"
+    }
+  ]
+}
